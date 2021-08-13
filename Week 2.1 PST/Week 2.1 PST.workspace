@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Week 2.1 PST" Database="" Version="10.0.0">
+  <Project Name="B_Xor_of_Sequences" Path="B_Xor_of_Sequences/B_Xor_of_Sequences.project" Active="No"/>
+  <Project Name="G_Chat_Order" Path="G_Chat_Order/G_Chat_Order.project" Active="No"/>
+  <Project Name="F_Second_Order_Statistics" Path="F_Second_Order_Statistics/F_Second_Order_Statistics.project" Active="No"/>
+  <Project Name="B_QAQ" Path="B_QAQ/B_QAQ.project" Active="No"/>
+  <Project Name="A_Cut_Ribbon" Path="A_Cut_Ribbon/A_Cut_Ribbon.project" Active="No"/>
+  <VirtualDirectory Name="Week3.1">
+    <Project Name="A_CD" Path="A_CD/A_CD.project" Active="No"/>
+    <Project Name="A_Dawid_and_Bags_of_Candies" Path="A_Dawid_and_Bags_of_Candies/A_Dawid_and_Bags_of_Candies.project" Active="No"/>
+    <Project Name="B_Lucky_Numbers_easy" Path="B_Lucky_Numbers_easy/B_Lucky_Numbers_easy.project" Active="Yes"/>
+  </VirtualDirectory>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="B_Xor_of_Sequences" ConfigName="Debug"/>
+      <Project Name="G_Chat_Order" ConfigName="Debug"/>
+      <Project Name="F_Second_Order_Statistics" ConfigName="Debug"/>
+      <Project Name="B_QAQ" ConfigName="Debug"/>
+      <Project Name="A_Cut_Ribbon" ConfigName="Debug"/>
+      <Project Name="A_CD" ConfigName="Debug"/>
+      <Project Name="A_Dawid_and_Bags_of_Candies" ConfigName="Debug"/>
+      <Project Name="B_Lucky_Numbers_easy" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="B_Xor_of_Sequences" ConfigName="Release"/>
+      <Project Name="G_Chat_Order" ConfigName="Release"/>
+      <Project Name="F_Second_Order_Statistics" ConfigName="Release"/>
+      <Project Name="B_QAQ" ConfigName="Release"/>
+      <Project Name="A_Cut_Ribbon" ConfigName="Release"/>
+      <Project Name="A_CD" ConfigName="Release"/>
+      <Project Name="A_Dawid_and_Bags_of_Candies" ConfigName="Release"/>
+      <Project Name="B_Lucky_Numbers_easy" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

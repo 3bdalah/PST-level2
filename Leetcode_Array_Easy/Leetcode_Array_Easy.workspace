@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Leetcode_Array_Easy" Database="" Version="10.0.0">
+  <Project Name="88_Merge_Sorted_Array" Path="88_Merge_Sorted_Array/88_Merge_Sorted_Array.project" Active="No"/>
+  <Project Name="  Jewels_and_Stones" Path="  Jewels_and_Stones/  Jewels_and_Stones.project" Active="No"/>
+  <Project Name="Ransom_Note" Path="Ransom_Note/Ransom_Note.project" Active="No"/>
+  <Project Name="Number_Complement" Path="Number_Complement/Number_Complement.project" Active="No"/>
+  <Project Name="  First_Unique_Character_in_a_String" Path="  First_Unique_Character_in_a_String/  First_Unique_Character_in_a_String.project" Active="No"/>
+  <Project Name="268_Missing_Number" Path="268_Missing_Number/268_Missing_Number.project" Active="No"/>
+  <Project Name="1668_Maximum_Repeating_Substring" Path="1668_Maximum_Repeating_Substring/1668_Maximum_Repeating_Substring.project" Active="No"/>
+  <Project Name="Koko" Path="Koko/Koko.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="88_Merge_Sorted_Array" ConfigName="Debug"/>
+      <Project Name="  Jewels_and_Stones" ConfigName="Debug"/>
+      <Project Name="Ransom_Note" ConfigName="Debug"/>
+      <Project Name="Number_Complement" ConfigName="Debug"/>
+      <Project Name="  First_Unique_Character_in_a_String" ConfigName="Debug"/>
+      <Project Name="268_Missing_Number" ConfigName="Debug"/>
+      <Project Name="1668_Maximum_Repeating_Substring" ConfigName="Debug"/>
+      <Project Name="Koko" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="88_Merge_Sorted_Array" ConfigName="Release"/>
+      <Project Name="  Jewels_and_Stones" ConfigName="Release"/>
+      <Project Name="Ransom_Note" ConfigName="Release"/>
+      <Project Name="Number_Complement" ConfigName="Release"/>
+      <Project Name="  First_Unique_Character_in_a_String" ConfigName="Release"/>
+      <Project Name="268_Missing_Number" ConfigName="Release"/>
+      <Project Name="1668_Maximum_Repeating_Substring" ConfigName="Release"/>
+      <Project Name="Koko" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

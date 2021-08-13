@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="STL" Database="" Version="10.0.0">
+  <Project Name="484_The_Department_of_Redundancy_Department" Path="484_The_Department_of_Redundancy_Department/484_The_Department_of_Redundancy_Department.project" Active="No"/>
+  <Project Name="10282_Babelfish" Path="10282_Babelfish/10282_Babelfish.project" Active="No"/>
+  <Project Name="QsPST" Path="QsPST/QsPST.project" Active="No"/>
+  <Project Name="Represant_Graphs" Path="Represant_Graphs/Represant_Graphs.project" Active="No"/>
+  <Project Name="A_cAPS_lOCK" Path="A_cAPS_lOCK/A_cAPS_lOCK.project" Active="No"/>
+  <Project Name="A_Twins" Path="A_Twins/A_Twins.project" Active="No"/>
+  <Project Name="QUEUEEZ_Easy_Queue" Path="QUEUEEZ_Easy_Queue/QUEUEEZ_Easy_Queue.project" Active="No"/>
+  <Project Name="STACKEZ_Easy_Stack" Path="STACKEZ_Easy_Stack/STACKEZ_Easy_Stack.project" Active="No"/>
+  <Project Name="ADAQUEUE_Ada_and_Queue" Path="ADAQUEUE_Ada_and_Queue/ADAQUEUE_Ada_and_Queue.project" Active="No"/>
+  <Project Name="A_Second_Order_Statistics" Path="A_Second_Order_Statistics/A_Second_Order_Statistics.project" Active="No"/>
+  <Project Name="ONP_Transform_the_Expression" Path="ONP_Transform_the_Expression/ONP_Transform_the_Expression.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="484_The_Department_of_Redundancy_Department" ConfigName="Debug"/>
+      <Project Name="10282_Babelfish" ConfigName="Debug"/>
+      <Project Name="QsPST" ConfigName="Debug"/>
+      <Project Name="Represant_Graphs" ConfigName="Debug"/>
+      <Project Name="A_cAPS_lOCK" ConfigName="Debug"/>
+      <Project Name="A_Twins" ConfigName="Debug"/>
+      <Project Name="QUEUEEZ_Easy_Queue" ConfigName="Debug"/>
+      <Project Name="STACKEZ_Easy_Stack" ConfigName="Debug"/>
+      <Project Name="ADAQUEUE_Ada_and_Queue" ConfigName="Debug"/>
+      <Project Name="A_Second_Order_Statistics" ConfigName="Debug"/>
+      <Project Name="ONP_Transform_the_Expression" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="484_The_Department_of_Redundancy_Department" ConfigName="Release"/>
+      <Project Name="10282_Babelfish" ConfigName="Release"/>
+      <Project Name="QsPST" ConfigName="Release"/>
+      <Project Name="Represant_Graphs" ConfigName="Release"/>
+      <Project Name="A_cAPS_lOCK" ConfigName="Release"/>
+      <Project Name="A_Twins" ConfigName="Release"/>
+      <Project Name="QUEUEEZ_Easy_Queue" ConfigName="Release"/>
+      <Project Name="STACKEZ_Easy_Stack" ConfigName="Release"/>
+      <Project Name="ADAQUEUE_Ada_and_Queue" ConfigName="Release"/>
+      <Project Name="A_Second_Order_Statistics" ConfigName="Release"/>
+      <Project Name="ONP_Transform_the_Expression" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

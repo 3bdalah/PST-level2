@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="level_0_Phase_2" Database="" Version="10.0.0">
+  <Project Name="Multiplication_Table" Path="Multiplication_Table/Multiplication_Table.project" Active="No"/>
+  <Project Name="Ho_Ho_Ho" Path="Ho_Ho_Ho/Ho_Ho_Ho.project" Active="No"/>
+  <Project Name="Even_Square" Path="Even_Square/Even_Square.project" Active="No"/>
+  <Project Name="Remaining_2" Path="Remaining_2/Remaining_2.project" Active="No"/>
+  <Project Name="Interval_2" Path="Interval_2/Interval_2.project" Active="No"/>
+  <Project Name="Fixed_Password" Path="Fixed_Password/Fixed_Password.project" Active="No"/>
+  <Project Name="Simple_Factorial" Path="Simple_Factorial/Simple_Factorial.project" Active="No"/>
+  <Project Name="Array_change_I" Path="Array_change_I/Array_change_I.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Multiplication_Table" ConfigName="Debug"/>
+      <Project Name="Ho_Ho_Ho" ConfigName="Debug"/>
+      <Project Name="Even_Square" ConfigName="Debug"/>
+      <Project Name="Remaining_2" ConfigName="Debug"/>
+      <Project Name="Interval_2" ConfigName="Debug"/>
+      <Project Name="Fixed_Password" ConfigName="Debug"/>
+      <Project Name="Simple_Factorial" ConfigName="Debug"/>
+      <Project Name="Array_change_I" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Multiplication_Table" ConfigName="Release"/>
+      <Project Name="Ho_Ho_Ho" ConfigName="Release"/>
+      <Project Name="Even_Square" ConfigName="Release"/>
+      <Project Name="Remaining_2" ConfigName="Release"/>
+      <Project Name="Interval_2" ConfigName="Release"/>
+      <Project Name="Fixed_Password" ConfigName="Release"/>
+      <Project Name="Simple_Factorial" ConfigName="Release"/>
+      <Project Name="Array_change_I" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

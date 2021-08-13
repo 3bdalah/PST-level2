@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Week 1.2 PST " Database="" Version="10.0.0">
+  <Project Name="F_Queries_about_less_or_equal_elements" Path="../Week 1.2 PST/F_Queries_about_less_or_equal_elements/F_Queries_about_less_or_equal_elements.project" Active="No"/>
+  <Project Name="B_z_sort" Path="../Week 1.2 PST/B_z_sort/B_z_sort.project" Active="No"/>
+  <Project Name="A_Points_on_Line" Path="../Week 1.2 PST/A_Points_on_Line/A_Points_on_Line.project" Active="No"/>
+  <Project Name="E_What_is_the_Median" Path="../Week 1.2 PST/E_What_is_the_Median/E_What_is_the_Median.project" Active="No"/>
+  <Project Name="D_Automate_the_Grades" Path="../Week 1.2 PST/D_Automate_the_Grades/D_Automate_the_Grades.project" Active="No"/>
+  <Project Name="B_Two_Arrays_And_Swaps" Path="../Week 1.2 PST/B_Two_Arrays_And_Swaps/B_Two_Arrays_And_Swaps.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="F_Queries_about_less_or_equal_elements" ConfigName="Debug"/>
+      <Project Name="B_z_sort" ConfigName="Debug"/>
+      <Project Name="A_Points_on_Line" ConfigName="Debug"/>
+      <Project Name="E_What_is_the_Median" ConfigName="Debug"/>
+      <Project Name="D_Automate_the_Grades" ConfigName="Debug"/>
+      <Project Name="B_Two_Arrays_And_Swaps" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="F_Queries_about_less_or_equal_elements" ConfigName="Release"/>
+      <Project Name="B_z_sort" ConfigName="Release"/>
+      <Project Name="A_Points_on_Line" ConfigName="Release"/>
+      <Project Name="E_What_is_the_Median" ConfigName="Release"/>
+      <Project Name="D_Automate_the_Grades" ConfigName="Release"/>
+      <Project Name="B_Two_Arrays_And_Swaps" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
