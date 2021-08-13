@@ -1,0 +1,54 @@
+/***
+ name : Make Them Odd CodeForces - 1277B 
+****/
+
+
+
+
+
+
+
+
+
+
+#include <bits/stdc++.h>
+using namespace std;
+int main(){
+
+  int x;cin>>x;
+  while(x--){
+   int n;cin>>n;
+   set<int,greater<int>>stt;
+	for(int i=0;i<n;++i){
+ 	int m;cin>>m;
+	if(m%2== 0)
+  	 stt.insert(m);
+	}
+   int ans=0;
+	while(!stt.empty()){
+	  auto it= stt.begin();
+		if(*it%2==0)
+ 			stt.insert(*it/2),++ans;
+		stt.erase(it);
+	}
+	cout<<ans<<"\n";
+  }
+  return 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

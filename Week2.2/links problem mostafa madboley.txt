@@ -1,0 +1,16 @@
+prop 1 :
+https://www.spoj.com/problems/YOSEQ/
+
+
+prop 2: 
+https://codeforces.com/contest/907/problem/A
+
+prop 3: 
+https://codeforces.com/contest/911/problem/B
+
+==========
+4 7 10
+==========
+4 7 10
+=========
+4 4 4 4
