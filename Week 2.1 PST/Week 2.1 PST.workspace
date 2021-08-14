@@ -8,7 +8,9 @@
   <VirtualDirectory Name="Week3.1">
     <Project Name="A_CD" Path="A_CD/A_CD.project" Active="No"/>
     <Project Name="A_Dawid_and_Bags_of_Candies" Path="A_Dawid_and_Bags_of_Candies/A_Dawid_and_Bags_of_Candies.project" Active="No"/>
-    <Project Name="B_Lucky_Numbers_easy" Path="B_Lucky_Numbers_easy/B_Lucky_Numbers_easy.project" Active="Yes"/>
+    <Project Name="B_Lucky_Numbers_easy" Path="B_Lucky_Numbers_easy/B_Lucky_Numbers_easy.project" Active="No"/>
+    <Project Name="KnapSack" Path="KnapSack/KnapSack.project" Active="No"/>
+    <Project Name="luckyNumber" Path="luckyNumber/luckyNumber.project" Active="Yes"/>
   </VirtualDirectory>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
@@ -21,6 +23,8 @@
       <Project Name="A_CD" ConfigName="Debug"/>
       <Project Name="A_Dawid_and_Bags_of_Candies" ConfigName="Debug"/>
       <Project Name="B_Lucky_Numbers_easy" ConfigName="Debug"/>
+      <Project Name="KnapSack" ConfigName="Debug"/>
+      <Project Name="luckyNumber" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -32,6 +36,8 @@
       <Project Name="A_CD" ConfigName="Release"/>
       <Project Name="A_Dawid_and_Bags_of_Candies" ConfigName="Release"/>
       <Project Name="B_Lucky_Numbers_easy" ConfigName="Release"/>
+      <Project Name="KnapSack" ConfigName="Release"/>
+      <Project Name="luckyNumber" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
